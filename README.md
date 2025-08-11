@@ -188,19 +188,6 @@ We welcome contributions! Please see our contributing guidelines:
 4. **Push** to the branch (`git push origin feature/AmazingFeature`)
 5. **Open** a Pull Request
 
-## 📊 Model Validation & Testing
-
-### Cross-Validation Results
-- **5-Fold CV Score**: 0.695 ± 0.024
-- **Feature Importance**: Validated through permutation testing
-- **Residual Analysis**: Homoscedastic distribution confirmed
-- **Overfitting Check**: Train-test gap within acceptable 3.6%
-
-### A/B Testing Framework
-- **Baseline**: Linear Regression (R² = 0.542)
-- **Current Model**: XGBoost (R² = 0.702) → **29% improvement**
-- **Statistical Significance**: p-value < 0.001
-
 ## 🏆 Project Impact & Recognition
 
 ### Achievements
