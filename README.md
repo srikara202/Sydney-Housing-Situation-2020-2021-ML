@@ -7,6 +7,8 @@
 
 > **An end-to-end machine learning solution for Sydney's real estate market, featuring predictive modeling, intelligent suburb recommendations, and comprehensive market analytics.**
 
+Hosted at [Streamlit Community Cloud](https://sydney-housing-situation-2020-2021-ml-v7drtmryeokq2ttu6yyw8h.streamlit.app/)
+
 ## 🎯 Project Overview
 
 This project delivers a comprehensive analysis of Sydney's housing market (2020-2021) through advanced machine learning techniques and interactive web applications. Combining property price prediction, suburb recommendation systems, and market analytics, it provides valuable insights for homebuyers, investors, and real estate professionals.
@@ -89,12 +91,13 @@ Sydney-Housing-Situation-2020-2021-ML/
 ├── 📱 app.py                           # Streamlit web application
 ├── 🤖 model.pkl                        # Trained XGBoost model
 ├── 📊 house_price_prediction.ipynb     # ML model development
-├── 🏘️ suburb_recommender.ipynb        # Recommendation system
+├── 🏘️ suburb_recommender.ipynb         # Recommendation system
 ├── 📈 domain_properties.csv            # Main property dataset
-├── 🏙️ suburb_info.csv                 # Suburb demographics
+├── 🏙️ suburb_info.csv                  # Suburb demographics
 ├── ⭐ Sydney-Suburbs-Reviews.csv       # Suburb ratings & ethnicity
 ├── 📄 README.md                        # Project documentation
 ├── 📝 LICENSE                          # MIT License
+├── 📄 Requirements.txt                 # Dependencies
 └── 🔧 .gitignore                       # Git ignore rules
 ```
 
@@ -209,6 +212,14 @@ We welcome contributions! Please see our contributing guidelines:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/srikarashankara/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/srikara202)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](srikarashankara@outlook.com)
+
+---
+
+## Acknowledgements
+
+Suburb Data From: https://www.kaggle.com/datasets/karltse/sydney-suburbs-reviews/data
+
+Price Data From: https://www.kaggle.com/datasets/alexlau203/sydney-house-prices
 
 ---
 
